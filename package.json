@@ -1,0 +1,19 @@
+{
+  "name": "aaarvark",
+  "version": "1.0.0",
+  "description": "pseudoest api ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aaarvark", "aardvark"
+  ],
+  "author": "Hamilton Q. Karl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "body-parser": "~1.0.1"
+
+  }
+}

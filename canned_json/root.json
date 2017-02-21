@@ -1,0 +1,12 @@
+{
+	"data":{ 
+		"randomMessage":"get root. yay."
+	},
+	"error":{
+		"message":"",
+		"data":"",
+		"detail":"",
+		"code":""
+	},
+	"success":true
+}
